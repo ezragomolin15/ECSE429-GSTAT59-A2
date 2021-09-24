@@ -15,43 +15,44 @@ Mention any insights you would like to share.
 
 ## Session notes
 
-### Charter
-
+### Charter:
+Mention the charter here
  
+### Build: 
+Mention the build file and environment here
 
-### Build 
-
-runTodoManagerRestAPI-1.5.5.jar
-
-### Area 
+### Area: 
 Mention the main area targeted for exploration
  
 
-### Enivornment 
+### Enivornment: 
 e.g. Windows10 
 
-### Start time 
+### Start time: 
 7:00 PM 09/23/2021
 
-### Testers 
+### Testers:
+e.g.
+<br> 
 Neeraj Katiyar  neeraj.katiyar@mail.mcgill.ca 
 <br>
 Aren Babikian   aren.babikian@mail.mcgill.ca
 
-### Duration  
+### Duration:  
 45 minutes 
 
 
-### Test Notes 
+### Test Notes: 
 /capability_name
-* note 1 
+* note 1 (along with the screen shots)
 * note 2
 
-### Bugs Logged
-
+### Bugs Logged:
+List of bugs logged
 ### Issues/Concerns
-
+List of concerns
 ### Testing Ideas
+List of testing ideas
 
 Add references at the end if any.
 
