@@ -3,7 +3,7 @@
 ## Bug summary  
 
 ### Pre-Conditions: 
- Mention the pre requisite
+ Mention the pre-requisite
 ### Steps to reproduce: 
 Mention the steps to reproduce the bug
 ### Frequency: 
