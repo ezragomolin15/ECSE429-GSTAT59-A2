@@ -34,11 +34,11 @@ e.g. Windows10
 ### Testers:
 e.g.
 <br> 
-Neeraj Katiyar  neeraj.katiyar@mail.mcgill.ca 
+Neeraj Katiyar      neeraj.katiyar@mail.mcgill.ca 
 <br>
-Aren Babikian   aren.babikian@mail.mcgill.ca
+Aren Babikian       aren.babikian@mail.mcgill.ca
 <br>
-Sogol Masoumzadeh sogol.masoumzadeh@mail.mcgill.ca
+Sogol Masoumzadeh   sogol.masoumzadeh@mail.mcgill.ca
 
 ### Duration:  
 45 minutes 
