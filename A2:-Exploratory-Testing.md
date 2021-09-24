@@ -37,6 +37,8 @@ e.g.
 Neeraj Katiyar  neeraj.katiyar@mail.mcgill.ca 
 <br>
 Aren Babikian   aren.babikian@mail.mcgill.ca
+<br>
+Sogol Masoumzadeh sogol.masoumzadeh@mail.mcgill.ca
 
 ### Duration:  
 45 minutes 
