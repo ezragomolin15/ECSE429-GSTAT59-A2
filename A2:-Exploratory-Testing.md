@@ -2,7 +2,7 @@
 
 ## Bug summary  
 
-### Pre-Conditions: 
+### Pre-conditions: 
  Mention the pre-requisite
 ### Steps to reproduce: 
 Mention the steps to reproduce the bug
