@@ -8,7 +8,7 @@
 Mention the steps to reproduce the bug
 ### Frequency: 
 How frequent?
-### Productivity Impact: 
+### Productivity impact: 
 
 ### Notes: 
 Mention any insights you would like to share.
