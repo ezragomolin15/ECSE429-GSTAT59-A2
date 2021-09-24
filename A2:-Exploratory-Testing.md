@@ -49,9 +49,9 @@ Aren Babikian   aren.babikian@mail.mcgill.ca
 
 ### Bugs Logged:
 List of bugs logged
-### Issues/Concerns
+### Issues/Concerns:
 List of concerns
-### Testing Ideas
+### Testing Ideas:
 List of testing ideas
 
 Add references at the end if any.
