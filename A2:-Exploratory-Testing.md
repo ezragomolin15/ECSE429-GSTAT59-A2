@@ -1,6 +1,6 @@
 # Structure to follow 
 
-## Bug summary  
+## Bug Summary  
 
 ### Pre-conditions: 
  Mention the pre-requisite
@@ -13,7 +13,7 @@ How frequent?
 ### Notes: 
 Mention any insights you would like to share.
 
-## Session notes
+## Session Notes
 
 ### Charter:
 Mention the charter here
@@ -28,7 +28,7 @@ Mention the main area targeted for exploration
 ### Enivornment: 
 e.g. Windows10 
 
-### Start time: 
+### Start Time: 
 7:00 PM 09/23/2021
 
 ### Testers:
